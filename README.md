@@ -7,7 +7,7 @@
 
 Una applicazione web moderna e sofisticata per la gestione delle finanze personali. Design dark luxury, dashboard interattiva, budgeting intelligente e analisi visiva dei tuoi movimenti finanziari.
 
-🌐 **Live Demo** — [finio.yourdomain.com](https://alexandruchiscop.github.io/-Fin.io-Finanze-Personali/)
+🌐 **Live Demo** — [finio.com](https://alexandruchiscop.github.io/-Fin.io-Finanze-Personali/)
 
 ---
 
