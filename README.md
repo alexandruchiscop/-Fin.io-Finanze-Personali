@@ -7,7 +7,7 @@
 
 Una applicazione web moderna e sofisticata per la gestione delle finanze personali. Design dark luxury, dashboard interattiva, budgeting intelligente e analisi visiva dei tuoi movimenti finanziari.
 
-🌐 **Live Demo** — [finio.yourdomain.com](https://finio.yourdomain.com) *(sostituisci con il tuo link)*
+🌐 **Live Demo** — [finio.yourdomain.com](https://alexandruchiscop.github.io/-Fin.io-Finanze-Personali/)
 
 ---
 
@@ -60,10 +60,3 @@ Una applicazione web moderna e sofisticata per la gestione delle finanze persona
 ### Prerequisiti
 - Un browser moderno (Chrome, Firefox, Safari, Edge)
 - Connessione internet (per CDN Chart.js e fonts)
-
-### Installazione
-
-1. **Clona il repository**
-```bash
-git clone https://github.com/tuousername/finio.git
-cd finio
